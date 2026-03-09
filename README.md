@@ -71,12 +71,14 @@ address = {Kolkata, India}
 bengali-gpt-poetry/
 │
 ├── train_bengali_gpt_v1.py     # Training script
-├── best_model.pt               # Trained model weights
+├── best_model.pt               # Trained model weights 
 ├── bpe_tokenizer.pkl           # Serialized BPE tokenizer
 ├── dataset/                    # Optional dataset directory
 │
 └── README.md
 ```
+
+**Note**: Becuase of large file size > **25MB** please download the model from here: [Pre-trained-model-HF](https://huggingface.co/koshikdebanath/bengali-gpt-poetry/blob/main/best_model.pt)
 
 ---
 
